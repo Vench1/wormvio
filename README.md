@@ -38,6 +38,11 @@ kitti_odometry_color
     ...
     └── 10
 ```
+
+Here are some more pretrained models and other data that need to be downloaded:
+
+Baidu Disk: https://pan.baidu.com/s/1649dCi-a5V3WKT0VYidurQ Enter Code:: 277x 
+
 ## Training
 
 Before training, you should check whether the dataset path is correctly set in `config.py`. You can adjust different parameters for training (e.g., selecting different fuse methods). 
