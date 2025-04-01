@@ -1,5 +1,7 @@
 # WormVIO 
 
+<img src="figures/overview.png" alt="overview" width="1000"/> 
+
 ## Installation
 
       $git clone https://github.com/Vench1/wormvio.git
@@ -41,7 +43,7 @@ kitti_odometry_color
 
 Here are some more pretrained models and other data that need to be downloaded:
 
-Baidu Disk: https://pan.baidu.com/s/1649dCi-a5V3WKT0VYidurQ Enter Code:: 277x 
+Baidu Disk: https://pan.baidu.com/s/1649dCi-a5V3WKT0VYidurQ Enter Code: 277x 
 
 ## Training
 
