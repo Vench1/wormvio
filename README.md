@@ -43,7 +43,9 @@ kitti_odometry_color
 
 Here are some more pretrained models and other data that need to be downloaded:
 
-Baidu Disk: https://pan.baidu.com/s/1649dCi-a5V3WKT0VYidurQ Enter Code: 277x 
+Google Dirve: https://drive.google.com/drive/folders/1dGDtDX1dannIX4nHRJ2mbg7Eaulbc_54?usp=sharing
+
+(or Baidu Disk: https://pan.baidu.com/s/1649dCi-a5V3WKT0VYidurQ Enter Code: 277x) 
 
 ## Training
 
